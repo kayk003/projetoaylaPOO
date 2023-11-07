@@ -1,0 +1,1 @@
+A melhoria que pode ser feita é que na classe de testes automáticos no ProgamaAnimesTests eu tentei chamar o sistema logo no setUp para que não precisasse fazer isso em todos os testes, mas não sei por qual motivo eu chamei ele no setUp e não funcionava, então tive que fazer meio que essa gambiarra em extansionar o sistema em todos os testes para que pegasse.
