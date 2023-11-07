@@ -1,5 +1,6 @@
 # projetoaylaPOO
-Código do projeto de POO 2023-1 kayk thierry e ednaldo guilherme                                                                                                                            
+Código do projeto de POO 2023-1 
+kayk thierry e ednaldo guilherme                                                                                                                            
 
 
 O projeto é utilizado para armazenar dados sobre animes, tais como: nome, país de origem e ano.
